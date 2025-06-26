@@ -67,6 +67,5 @@ You’ll also need:
 - A GPU (recommended)
 - Access to Hugging Face models: ```bash facebook/sam```, ```bash Salesforce/blip```, ```bash mistralai/Mistral-7B-Instruct-v0.3 ```, ```bash IDEA-Research/grounding-dino-tiny```
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/doujamai/Segma-vision-Pro-HLBB/blob/main/sam_Blip_HLBB.ipynb)
 
 
