@@ -9,6 +9,7 @@ Bienvenue dans la documentation de Segma Vision Pro HLBB.
 
    introduction
    installation
+   Modèles et Architecture
 
 Indices and tables
 ==================
