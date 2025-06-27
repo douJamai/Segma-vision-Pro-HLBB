@@ -9,7 +9,6 @@ Bienvenue dans la documentation de Segma Vision Pro HLBB.
 
    introduction
    installation
-   usage
 
 Indices and tables
 ==================
