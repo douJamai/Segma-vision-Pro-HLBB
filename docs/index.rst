@@ -9,7 +9,7 @@ Bienvenue dans la documentation de Segma Vision Pro HLBB.
 
    introduction
    installation
-   Modules
+   modules
 
 Indices and tables
 ==================
@@ -17,3 +17,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
