@@ -59,7 +59,7 @@ Le pipeline intègre quatre composants principaux dans un workflow séquentiel :
 Workflow du Pipeline
 --------------------
 
-Pipeline en 6 étapes
+Pipeline en 5 étapes
 ~~~~~~~~~~~~~~~~~~~~~
 
 Input
