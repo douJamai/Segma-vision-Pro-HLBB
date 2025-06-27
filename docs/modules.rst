@@ -1,7 +1,4 @@
 
-Modèles et Architecture
-=======================
-
 Cette section détaille l'architecture, le fonctionnement et l'implémentation de chaque modèle utilisé dans le pipeline Segma Vision Pro HLBB.
 
 SAM (Segment Anything Model)
