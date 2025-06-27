@@ -1,7 +1,7 @@
-Segma Vision Pro HLBB
+Segma Vision Pro HLBB 
 =====================
 
-**Pipeline de Segmentation Multi-Modal Intelligent**
+**introduction à Segmentation Multi-Modal Intelligent**
 
 Segma Vision Pro HLBB est un pipeline innovant de segmentation d'images qui combine quatre modèles d'IA de pointe dans un workflow séquentiel intelligent pour analyser, comprendre et segmenter des images avec une précision exceptionnelle.
 
@@ -62,29 +62,30 @@ Workflow du Pipeline
 Pipeline en 6 étapes
 ~~~~~~~~~~~~~~~~~~~~~
 
-**1. Input**
-   * Image d'entrée
+Input
+~~~~~~~~~~~~
+* Image d'entrée
 
-**2. Segmentation Exploratoire (SAM)**
+**1. Segmentation Exploratoire (SAM)**
    * SAM génère automatiquement plusieurs masques de segmentation
    * Découverte de tous les objets et régions potentielles
 
-**3. Analyse Sémantique (BLIP)**
+**2. Analyse Sémantique (BLIP)**
    * Chaque masque est analysé individuellement par BLIP
    * Génération de descriptions détaillées pour chaque région
    * Annotation automatique du contenu visuel
 
-**4. Extraction de Classes (Mistral LLM)**
+**3. Extraction de Classes (Mistral LLM)**
    * Traitement des descriptions BLIP par le LLM Mistral
    * Extraction et structuration des mots-clés importants
    * Conversion en classes/prompts textuels utilisables
 
-**5. Détection Ciblée (Grounding DINO)**
+**4. Détection Ciblée (Grounding DINO)**
    * Utilisation des classes extraites comme prompts
    * Segmentation précise selon les objets détectés
    * Génération de bounding boxes optimisées
 
-**6. Enrichissement HLBB**
+**5. Enrichissement HLBB**
    * Extraction de 61 caractéristiques quantitatives par objet
    * Analyse approfondie de couleur, texture et géométrie
 
@@ -118,7 +119,3 @@ Applications
 * Analyse d'images médicales ou satellitaires
 * Système de description automatique d'images
 
-Getting Started
-===============
-
-Pour commencer à utiliser Segma Vision Pro HLBB, consultez les sections suivantes :
